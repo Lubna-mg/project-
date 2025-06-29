@@ -1,8 +1,9 @@
 # 👁️ بصيرة | Basira – AI-Based Autism Detection
 
-**Basira** is a smart diagnostic system that leverages **AI** and **eye-tracking data** to enable early detection of **Autism Spectrum Disorder (ASD)** in children. By analyzing visual patterns through scanpath images and gaze metrics, Basira supports medical professionals and parents in making more accurate, timely decisions.
+**بصيرة** is a smart diagnostic system that leverages **AI** and **eye-tracking data** to enable early detection of **Autism Spectrum Disorder (ASD)** in children. By analyzing visual patterns through scanpath images and gaze metrics, Basira supports medical professionals and parents in making more accurate, timely decisions.
 
 > 🏆 1nd Place Winner – Most Voted Graduation Project – College of Computer Science 2025
+
 > 🏆 2nd Place Winner – Ebtekar Innovation Incubator  
 
 
@@ -67,16 +68,8 @@ Unlike traditional diagnostic approaches, Basira offers a fast, scalable, empowe
 This project is part of a protected academic and research effort.  
 📁 **Source code and datasets are not publicly available** to preserve intellectual property.
 
-> 📩 For demo access, academic collaboration, or partnerships: please contact the developer.
-
+> 📩 For demo access, academic collaboration, or partnerships: please contact my
 ---
 
-## 📬 Contact
-
-- 📧 Email: [lubna.mg@hotmail.com](mailto:lubna.mg@hotmail.com)  
-- 💼 LinkedIn: [Lubna Alghamdi](https://www.linkedin.com/in/lubna-al-ghamdi-16150b29b)  
-- 🌐 Portfolio: [Your Portfolio Link Here](https://yourportfolio.com)
-
----
 
 © 2025 Lubna Alghamdi. All rights reserved.
